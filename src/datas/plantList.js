@@ -10,7 +10,7 @@ export const plantList = [
 		id: '2ab'
 	},
 	{
-		name: 'pothos argenté test',
+		name: 'pothos argenté',
 		category: 'classique',
 		id: '3sd'
 	},
